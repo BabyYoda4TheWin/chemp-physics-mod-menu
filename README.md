@@ -5,4 +5,5 @@ YOU NEED BEPINEX
 click y on your controller for the mod menu and click r on pc the ui
 
 
-the ui looks like this     <img width="635" height="755" alt="image" src="https://github.com/user-attachments/assets/01a06dd2-cc96-4ab5-b0f4-6205713e5fd2" />
+the ui looks like this     
+<img width="635" height="755" alt="image" src="https://github.com/user-attachments/assets/01a06dd2-cc96-4ab5-b0f4-6205713e5fd2" />
